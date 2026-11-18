@@ -1,0 +1,13 @@
+
+As a lecturer with other commitments (research, admin)
+I want to be able to find my lecture theatres easily
+So that I can focus on other things and not waste time looking for lecture theatres.
+
+As a lecturer with many students
+I want to be able to give them information and ensure they will reliably see it
+So that I can be confident students are up to date with important information
+
+As an older person with limited tech skills
+I want the system to be clear and intuitive
+So that I can focus on my course and not figuring out how to use the system
+
