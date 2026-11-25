@@ -1,26 +1,26 @@
 ###MVPS
--Has timetable 
--Has map 
--Different languages 
+- Has timetable 
+- Has map 
+- Different languages 
 
-###Must Haves 
--Improved timetables, calander format and add own features
--Different language support 
--Assignment viewer 
--Remove clutter 
+### Must Haves 
+- Improved timetables, calander format and add own features
+- Different language support 
+- Assignment viewer 
+- Remove clutter 
 
-###Should Haves 
--Easy for lecturer to put annoucement out
--Integrate google maps 
--Notifications 
+### Should Haves 
+- Easy for lecturer to put annoucement out
+- Integrate google maps 
+- Notifications 
 
-###Could Haves 
--Dark Mode
--Upcoming events 
+### Could Haves 
+- Dark Mode
+- Upcoming events 
 
-###Wont Haves 
--Maps for specific buildings 
--Face ID
+### Wont Haves 
+- Maps for specific buildings 
+- Face ID
 
-###Sprint Goal
--John can clearly see his weeks timetable and add own events 
+### Sprint Goal
+- John can clearly see his weeks timetable and add own events 
